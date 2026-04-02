@@ -5,9 +5,79 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:52:58 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Buffer</title>
+      <link>https://github.com/samirpatil2000/Buffer</link>
+      <guid isPermaLink="false">7efb1f36272e794c3a07ec70c331d77a4bf24774:Buffer</guid>
+      <pubDate>Wed, 01 Apr 2026 10:52:58 GMT</pubDate>
+      <category>Utilities / Clipboard Tools</category>
+      <description>Category: Utilities / Clipboard Tools
+App: Buffer
+Description: Lightweight open-source clipboard manager with bookmarks and OCR for images.
+Open Source: https://github.com/samirpatil2000/Buffer
+Commit: Add Buffer.
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774</description>
+      <content:encoded><![CDATA[Category: Utilities / Clipboard Tools<br/>App: Buffer<br/>Description: Lightweight open-source clipboard manager with bookmarks and OCR for images.<br/>Open Source: https://github.com/samirpatil2000/Buffer<br/>Commit: Add Buffer.<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/7efb1f36272e794c3a07ec70c331d77a4bf24774]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenScreen</title>
+      <link>https://github.com/siddharthvaddem/openscreen</link>
+      <guid isPermaLink="false">c207eeb5e8d96d3b1adc67484bf666907ff2105d:OpenScreen</guid>
+      <pubDate>Wed, 01 Apr 2026 10:36:02 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: OpenScreen
+Description: Open-source tool for creating polished screen demos and walkthrough videos.
+Open Source: https://github.com/siddharthvaddem/openscreen
+Commit: Add OpenScreen
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: OpenScreen<br/>Description: Open-source tool for creating polished screen demos and walkthrough videos.<br/>Open Source: https://github.com/siddharthvaddem/openscreen<br/>Commit: Add OpenScreen<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c207eeb5e8d96d3b1adc67484bf666907ff2105d]]></content:encoded>
+    </item>
+    <item>
+      <title>Mullvad Browser</title>
+      <link>https://mullvad.net/en/download/browser/</link>
+      <guid isPermaLink="false">ea3b60bc27c27ff89c0edc04144ed759004c7521:Mullvad Browser</guid>
+      <pubDate>Wed, 01 Apr 2026 04:36:38 GMT</pubDate>
+      <category>Browsers</category>
+      <description>Category: Browsers
+App: Mullvad Browser
+Description: Privacy browser focused on anti-fingerprinting protection.
+Website: https://mullvad.net/en/download/browser/
+Commit: Shorten app descriptions across localized READMEs
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521</description>
+      <content:encoded><![CDATA[Category: Browsers<br/>App: Mullvad Browser<br/>Description: Privacy browser focused on anti-fingerprinting protection.<br/>Website: https://mullvad.net/en/download/browser/<br/>Commit: Shorten app descriptions across localized READMEs<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ea3b60bc27c27ff89c0edc04144ed759004c7521]]></content:encoded>
+    </item>
+    <item>
+      <title>EnviousWispr</title>
+      <link>https://enviouswispr.com</link>
+      <guid isPermaLink="false">2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775:EnviousWispr</guid>
+      <pubDate>Wed, 01 Apr 2026 02:54:04 GMT</pubDate>
+      <category>Voice-to-Text</category>
+      <description>Category: Voice-to-Text
+App: EnviousWispr
+Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.
+Website: https://enviouswispr.com
+Commit: Add EnviousWispr to Voice-to-Text section (#1948)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775</description>
+      <content:encoded><![CDATA[Category: Voice-to-Text<br/>App: EnviousWispr<br/>Description: Free on-device AI dictation for macOS. Runs Whisper and Parakeet speech models locally on Apple Silicon.<br/>Website: https://enviouswispr.com<br/>Commit: Add EnviousWispr to Voice-to-Text section (#1948)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2aac3d8bbc205b0d0e0663a262cc65b2bc9f5775]]></content:encoded>
+    </item>
+    <item>
+      <title>Claudoscope</title>
+      <link>https://github.com/cordwainersmith/claudoscope</link>
+      <guid isPermaLink="false">b2684ecdba49ec6d123b206b91ff1fd88b07d8a8:Claudoscope</guid>
+      <pubDate>Tue, 31 Mar 2026 17:51:05 GMT</pubDate>
+      <category>AI Tools</category>
+      <description>Category: AI Tools
+App: Claudoscope
+Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.
+Open Source: https://github.com/cordwainersmith/claudoscope
+Commit: Add Claudoscope to Menu Bar Tools (#1946)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8</description>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claudoscope<br/>Description: Browse, analyze, and manage Claude Code sessions with timelines, cost estimates, and secret scanning.<br/>Open Source: https://github.com/cordwainersmith/claudoscope<br/>Commit: Add Claudoscope to Menu Bar Tools (#1946)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b2684ecdba49ec6d123b206b91ff1fd88b07d8a8]]></content:encoded>
+    </item>
     <item>
       <title>StreamWindow</title>
       <link>https://macdev.cn/</link>
@@ -27,14 +97,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a2b60a234eb7de0cebc
       <link>https://github.com/AtomicBot-ai/Atomic-Chat</link>
       <guid isPermaLink="false">bd7eb478d51c6ef17c18cb0274d682531af2fcb3:Atomic Chat</guid>
       <pubDate>Mon, 30 Mar 2026 13:15:09 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Atomic Chat
 Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.
 Open Source: https://github.com/AtomicBot-ai/Atomic-Chat
 Commit: Add Atomic Chat
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Atomic Chat<br/>Description: Open-source AI chat client for local LLMs and cloud models with MCP and OpenAI-compatible API support.<br/>Open Source: https://github.com/AtomicBot-ai/Atomic-Chat<br/>Commit: Add Atomic Chat<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/bd7eb478d51c6ef17c18cb0274d682531af2fcb3]]></content:encoded>
     </item>
     <item>
       <title>Dimly</title>
@@ -55,14 +125,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/1f961ea0dc7c4634ff8
       <link>https://clawdhome.app/</link>
       <guid isPermaLink="false">29a8d9fea61d823eca4f0573f2881b38b408e559:ClawdHome</guid>
       <pubDate>Mon, 30 Mar 2026 07:08:12 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: ClawdHome
 Description: Manage multiple isolated OpenClaw gateway instances from one control panel.
 Website: https://clawdhome.app/
 Commit: Add ClawdHome
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: ClawdHome<br/>Description: Manage multiple isolated OpenClaw gateway instances from one control panel.<br/>Website: https://clawdhome.app/<br/>Commit: Add ClawdHome<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/29a8d9fea61d823eca4f0573f2881b38b408e559]]></content:encoded>
     </item>
     <item>
       <title>DashVPN</title>
@@ -111,14 +181,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/3571b91bcc6398fd79a
       <link>https://github.com/Divagation/flock</link>
       <guid isPermaLink="false">a4ad4b90fe05d473d745ff558a165e0b6dac00f9:Flock</guid>
       <pubDate>Mon, 30 Mar 2026 01:52:01 GMT</pubDate>
-      <category>Terminal Apps</category>
-      <description>Category: Terminal Apps
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Flock
 Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.
 Open Source: https://github.com/Divagation/flock
 Commit: Add Flock to Terminal Apps (#1936)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9</description>
-      <content:encoded><![CDATA[Category: Terminal Apps<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Flock<br/>Description: Terminal multiplexer for running multiple Claude Code and shell sessions in one workspace.<br/>Open Source: https://github.com/Divagation/flock<br/>Commit: Add Flock to Terminal Apps (#1936)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ad4b90fe05d473d745ff558a165e0b6dac00f9]]></content:encoded>
     </item>
     <item>
       <title>markdown-quicklook</title>
@@ -237,14 +307,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ffcaf60b826240c20af
       <link>https://github.com/theDanButuc/Claude-Usage-Monitor</link>
       <guid isPermaLink="false">2f669a63d29ebbe2b3933f21eac34b2082306377:Claude Usage Monitor</guid>
       <pubDate>Mon, 23 Mar 2026 14:01:22 GMT</pubDate>
-      <category>Utilities / Menu Bar Tools</category>
-      <description>Category: Utilities / Menu Bar Tools
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Claude Usage Monitor
-Description: Menu bar tool for tracking Claude usage with a live counter.
+Description: Track Claude usage with a live counter.
 Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor
 Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377</description>
-      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: Claude Usage Monitor<br/>Description: Menu bar tool for tracking Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Claude Usage Monitor<br/>Description: Track Claude usage with a live counter.<br/>Open Source: https://github.com/theDanButuc/Claude-Usage-Monitor<br/>Commit: Add Claude Usage Monitor to the ja/ko/zh list. #1912<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2f669a63d29ebbe2b3933f21eac34b2082306377]]></content:encoded>
     </item>
     <item>
       <title>Zipic</title>
@@ -265,14 +335,14 @@ Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/74d4d600677a63bef7d
       <link>https://orchard.5km.tech/</link>
       <guid isPermaLink="false">0d36dfc922d82a46b83664683364fbef1cfd0243:Orchard</guid>
       <pubDate>Mon, 23 Mar 2026 06:45:11 GMT</pubDate>
-      <category>AI Client</category>
-      <description>Category: AI Client
+      <category>AI Tools</category>
+      <description>Category: AI Tools
 App: Orchard
 Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.
 Website: https://orchard.5km.tech/
 Commit: Add Orchard to AI Client (#1911)
 Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243</description>
-      <content:encoded><![CDATA[Category: AI Client<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
+      <content:encoded><![CDATA[Category: AI Tools<br/>App: Orchard<br/>Description: MCP server that bridges AI assistants to native Apple apps like Calendar, Mail, Notes, Reminders, Music, and more.<br/>Website: https://orchard.5km.tech/<br/>Commit: Add Orchard to AI Client (#1911)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0d36dfc922d82a46b83664683364fbef1cfd0243]]></content:encoded>
     </item>
     <item>
       <title>Azex Speech</title>
