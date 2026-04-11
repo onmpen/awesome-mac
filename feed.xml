@@ -5,9 +5,289 @@
     <link>https://jaywcjlove.github.io/awesome-mac</link>
     <description>Recently added macOS apps tracked from awesome-mac.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 Apr 2026 10:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 05:26:24 GMT</lastBuildDate>
     <atom:link href="https://jaywcjlove.github.io/awesome-mac/feed/feed.xml" rel="self" type="application/rss+xml" />
     <generator>build/feed.mjs</generator>
+    <item>
+      <title>Capso</title>
+      <link>https://github.com/lzhgus/Capso</link>
+      <guid isPermaLink="false">2cca10add66fbf6c1c73f224c11e70b286c0046a:Capso</guid>
+      <pubDate>Sat, 11 Apr 2026 05:26:24 GMT</pubDate>
+      <category>Design and Product / Screenshot Tools</category>
+      <description>Category: Design and Product / Screenshot Tools
+App: Capso
+Description: Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 &amp; GIF recording, webcam PiP, OCR, annotations, and screenshot beautification.
+Open Source: https://github.com/lzhgus/Capso
+Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screenshot Tools<br/>App: Capso<br/>Description: Free, open-source screenshot and screen recording for macOS. Area/window/fullscreen capture, MP4 &amp; GIF recording, webcam PiP, OCR, annotations, and screenshot beautification.<br/>Open Source: https://github.com/lzhgus/Capso<br/>Commit: Add Capso - free open-source screenshot &amp; screen recording for macOS (#1982)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/2cca10add66fbf6c1c73f224c11e70b286c0046a]]></content:encoded>
+    </item>
+    <item>
+      <title>Kaset</title>
+      <link>https://github.com/sozercan/kaset</link>
+      <guid isPermaLink="false">533befd8ed6cb8fad818666f318d0b09f1674325:Kaset</guid>
+      <pubDate>Fri, 10 Apr 2026 12:31:47 GMT</pubDate>
+      <category>Audio and Video Tools</category>
+      <description>Category: Audio and Video Tools
+App: Kaset
+Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.
+Open Source: https://github.com/sozercan/kaset
+Commit: Add Kaset to the zh/ja/ko list #1977
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325</description>
+      <content:encoded><![CDATA[Category: Audio and Video Tools<br/>App: Kaset<br/>Description: Open-source YouTube Music client with library, lyrics, podcasts, and playback controls.<br/>Open Source: https://github.com/sozercan/kaset<br/>Commit: Add Kaset to the zh/ja/ko list #1977<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/533befd8ed6cb8fad818666f318d0b09f1674325]]></content:encoded>
+    </item>
+    <item>
+      <title>Switzy</title>
+      <link>https://github.com/yefga/Switzy</link>
+      <guid isPermaLink="false">d412dfe9ff0615d6289568f45dd6e812af0b5bf1:Switzy</guid>
+      <pubDate>Fri, 10 Apr 2026 12:00:18 GMT</pubDate>
+      <category>Developer Tools / Developer Utilities</category>
+      <description>Category: Developer Tools / Developer Utilities
+App: Switzy
+Description: Minimalist SSH and Git profile identity management for macOS.
+Open Source: https://github.com/yefga/Switzy
+Commit: Add Switzy (#1979)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d412dfe9ff0615d6289568f45dd6e812af0b5bf1</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Developer Utilities<br/>App: Switzy<br/>Description: Minimalist SSH and Git profile identity management for macOS.<br/>Open Source: https://github.com/yefga/Switzy<br/>Commit: Add Switzy (#1979)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d412dfe9ff0615d6289568f45dd6e812af0b5bf1]]></content:encoded>
+    </item>
+    <item>
+      <title>Rockxy</title>
+      <link>https://github.com/LocNguyenHuu/Rockxy</link>
+      <guid isPermaLink="false">25d650dec398844a3a9f616952482f7e43c9e206:Rockxy</guid>
+      <pubDate>Fri, 10 Apr 2026 03:08:54 GMT</pubDate>
+      <category>Developer Tools / Network Analysis</category>
+      <description>Category: Developer Tools / Network Analysis
+App: Rockxy
+Description: Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.
+Open Source: https://github.com/LocNguyenHuu/Rockxy
+Commit: Add Rockxy
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Network Analysis<br/>App: Rockxy<br/>Description: Open-source HTTP(S) debugging proxy for intercepting, inspecting, modifying, and replaying requests.<br/>Open Source: https://github.com/LocNguyenHuu/Rockxy<br/>Commit: Add Rockxy<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/25d650dec398844a3a9f616952482f7e43c9e206]]></content:encoded>
+    </item>
+    <item>
+      <title>PureMac</title>
+      <link>https://github.com/momenbasel/PureMac</link>
+      <guid isPermaLink="false">0fb3932f0370da154a177e282fc5cde6e96ea8a6:PureMac</guid>
+      <pubDate>Thu, 09 Apr 2026 05:34:34 GMT</pubDate>
+      <category>Utilities / Cleanup and Uninstall</category>
+      <description>Category: Utilities / Cleanup and Uninstall
+App: PureMac
+Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
+Open Source: https://github.com/momenbasel/PureMac
+Commit: Add PureMac to Cleanup and Uninstall section (#1973)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6</description>
+      <content:encoded><![CDATA[Category: Utilities / Cleanup and Uninstall<br/>App: PureMac<br/>Description: Free, open-source macOS cleaner with no telemetry. Cleans system and user caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.<br/>Open Source: https://github.com/momenbasel/PureMac<br/>Commit: Add PureMac to Cleanup and Uninstall section (#1973)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/0fb3932f0370da154a177e282fc5cde6e96ea8a6]]></content:encoded>
+    </item>
+    <item>
+      <title>SuperCmd</title>
+      <link>https://github.com/SuperCmdLabs/SuperCmd</link>
+      <guid isPermaLink="false">4d17a7d7464ba6aa032e3567263559a927a627f5:SuperCmd</guid>
+      <pubDate>Thu, 09 Apr 2026 04:11:28 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: SuperCmd
+Description: Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions.
+Open Source: https://github.com/SuperCmdLabs/SuperCmd
+Commit: Add SuperCmd
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: SuperCmd<br/>Description: Open-source launcher with Raycast-compatible extensions, voice workflows, text-to-speech, memory, and AI actions.<br/>Open Source: https://github.com/SuperCmdLabs/SuperCmd<br/>Commit: Add SuperCmd<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/4d17a7d7464ba6aa032e3567263559a927a627f5]]></content:encoded>
+    </item>
+    <item>
+      <title>LiteEdit</title>
+      <link>https://arietan.github.io/lite-edit/</link>
+      <guid isPermaLink="false">c165a90383c00edddb3619e13e77ac864de04f83:LiteEdit</guid>
+      <pubDate>Thu, 09 Apr 2026 04:09:22 GMT</pubDate>
+      <category>Reading and Writing Tools / Text Editors</category>
+      <description>Category: Reading and Writing Tools / Text Editors
+App: LiteEdit
+Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.
+Website: https://arietan.github.io/lite-edit/
+Commit: Add LiteEdit to Text Editors (#1970)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Text Editors<br/>App: LiteEdit<br/>Description: Fast, native macOS code editor under 1 MB — Swift and AppKit, no Electron.<br/>Website: https://arietan.github.io/lite-edit/<br/>Commit: Add LiteEdit to Text Editors (#1970)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c165a90383c00edddb3619e13e77ac864de04f83]]></content:encoded>
+    </item>
+    <item>
+      <title>Recordly</title>
+      <link>https://recordly.dev/</link>
+      <guid isPermaLink="false">c0329d594113d951c3b5f4d55706f37da9ba3cc0:Recordly</guid>
+      <pubDate>Wed, 08 Apr 2026 02:51:31 GMT</pubDate>
+      <category>Design and Product / Screen Recording</category>
+      <description>Category: Design and Product / Screen Recording
+App: Recordly
+Description: Open-source screen recorder and editor for polished demos, tutorials, and product videos.
+Website: https://recordly.dev/
+Commit: Add Recordly
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0</description>
+      <content:encoded><![CDATA[Category: Design and Product / Screen Recording<br/>App: Recordly<br/>Description: Open-source screen recorder and editor for polished demos, tutorials, and product videos.<br/>Website: https://recordly.dev/<br/>Commit: Add Recordly<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/c0329d594113d951c3b5f4d55706f37da9ba3cc0]]></content:encoded>
+    </item>
+    <item>
+      <title>Lap</title>
+      <link>https://github.com/julyx10/lap</link>
+      <guid isPermaLink="false">647ffa67f9b8e89e7d0c9e73c4eadb728634e580:Lap</guid>
+      <pubDate>Tue, 07 Apr 2026 09:48:27 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: Lap
+Description: Local photo manager for browsing and organizing personal media libraries offline.
+Open Source: https://github.com/julyx10/lap
+Commit: Add Lap fix #1969
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: Lap<br/>Description: Local photo manager for browsing and organizing personal media libraries offline.<br/>Open Source: https://github.com/julyx10/lap<br/>Commit: Add Lap fix #1969<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/647ffa67f9b8e89e7d0c9e73c4eadb728634e580]]></content:encoded>
+    </item>
+    <item>
+      <title>CompressO</title>
+      <link>https://github.com/codeforreal1/compressO</link>
+      <guid isPermaLink="false">8bf6add2922e6c7ab7d3fa0564ecaf556296821a:CompressO</guid>
+      <pubDate>Tue, 07 Apr 2026 03:35:21 GMT</pubDate>
+      <category>Design and Product / Other Tools</category>
+      <description>Category: Design and Product / Other Tools
+App: CompressO
+Description: Open-source tool for compressing videos and images to smaller sizes.
+Open Source: https://github.com/codeforreal1/compressO
+Commit: Add CompressO
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a</description>
+      <content:encoded><![CDATA[Category: Design and Product / Other Tools<br/>App: CompressO<br/>Description: Open-source tool for compressing videos and images to smaller sizes.<br/>Open Source: https://github.com/codeforreal1/compressO<br/>Commit: Add CompressO<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/8bf6add2922e6c7ab7d3fa0564ecaf556296821a]]></content:encoded>
+    </item>
+    <item>
+      <title>Cadran</title>
+      <link>https://cadranapp.com</link>
+      <guid isPermaLink="false">9e81d475101acb1f6db37b5c062000d9b2739631:Cadran</guid>
+      <pubDate>Tue, 07 Apr 2026 01:25:48 GMT</pubDate>
+      <category>Utilities / General Tools</category>
+      <description>Category: Utilities / General Tools
+App: Cadran
+Description: Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.
+Website: https://cadranapp.com
+Commit: Add Cadran to Utilities &gt; General Tools (#1914)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631</description>
+      <content:encoded><![CDATA[Category: Utilities / General Tools<br/>App: Cadran<br/>Description: Renders 22 customizable clock faces on your Mac desktop wallpaper and screensaver.<br/>Website: https://cadranapp.com<br/>Commit: Add Cadran to Utilities &gt; General Tools (#1914)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9e81d475101acb1f6db37b5c062000d9b2739631]]></content:encoded>
+    </item>
+    <item>
+      <title>FunKey</title>
+      <link>https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac</link>
+      <guid isPermaLink="false">b4c571e694758688e71f648375da21efd3610e10:FunKey</guid>
+      <pubDate>Sun, 05 Apr 2026 06:29:22 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: FunKey
+Description: Keyboard sound tool that adds mechanical-style typing audio.
+App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac
+Commit: doc: Update multilingual app descriptions
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: FunKey<br/>Description: Keyboard sound tool that adds mechanical-style typing audio.<br/>App Store: https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677?platform=mac<br/>Commit: doc: Update multilingual app descriptions<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/b4c571e694758688e71f648375da21efd3610e10]]></content:encoded>
+    </item>
+    <item>
+      <title>CurrentKey</title>
+      <link>https://currentkey.com</link>
+      <guid isPermaLink="false">fc600dcf1d9df3a5023ac4588aea9b82660ff51c:CurrentKey</guid>
+      <pubDate>Sat, 04 Apr 2026 02:34:32 GMT</pubDate>
+      <category>Utilities / Productivity</category>
+      <description>Category: Utilities / Productivity
+App: CurrentKey
+Description: Assign unique icons and names to macOS Spaces and track time spent in apps.
+Website: https://currentkey.com
+Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c</description>
+      <content:encoded><![CDATA[Category: Utilities / Productivity<br/>App: CurrentKey<br/>Description: Assign unique icons and names to macOS Spaces and track time spent in apps.<br/>Website: https://currentkey.com<br/>Commit: Add CurrentKey — macOS Spaces-management and time tracking tool (#1845)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/fc600dcf1d9df3a5023ac4588aea9b82660ff51c]]></content:encoded>
+    </item>
+    <item>
+      <title>Santa</title>
+      <link>https://northpole.security/</link>
+      <guid isPermaLink="false">13643e14c058e44dc384a92af9f6477009b83a78:Santa</guid>
+      <pubDate>Fri, 03 Apr 2026 00:30:29 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: Santa
+Description: A binary and file access authorization system for macOS.
+Website: https://northpole.security/
+Commit: Add Santa to the Security section (#1957)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: Santa<br/>Description: A binary and file access authorization system for macOS.<br/>Website: https://northpole.security/<br/>Commit: Add Santa to the Security section (#1957)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/13643e14c058e44dc384a92af9f6477009b83a78]]></content:encoded>
+    </item>
+    <item>
+      <title>Revu</title>
+      <link>https://revu.cards/</link>
+      <guid isPermaLink="false">ccfdc358cab9ed99219052cc392114102aea5755:Revu</guid>
+      <pubDate>Fri, 03 Apr 2026 00:22:19 GMT</pubDate>
+      <category>Education</category>
+      <description>Category: Education
+App: Revu
+Description: Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.
+Website: https://revu.cards/
+Commit: Add Revu - local-first macOS spaced repetition app (#1955)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755</description>
+      <content:encoded><![CDATA[Category: Education<br/>App: Revu<br/>Description: Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting.<br/>Website: https://revu.cards/<br/>Commit: Add Revu - local-first macOS spaced repetition app (#1955)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/ccfdc358cab9ed99219052cc392114102aea5755]]></content:encoded>
+    </item>
+    <item>
+      <title>ClearanceKit</title>
+      <link>https://craigjbass.github.io/clearancekit/</link>
+      <guid isPermaLink="false">a4ab493a44a732d7b9770e8779c226a50453db30:ClearanceKit</guid>
+      <pubDate>Fri, 03 Apr 2026 00:02:02 GMT</pubDate>
+      <category>Security Tools</category>
+      <description>Category: Security Tools
+App: ClearanceKit
+Description: intercepts file-system access events on macOS and enforces per-process access policies.
+Website: https://craigjbass.github.io/clearancekit/
+Commit: Add ClearanceKit to security tools list (#1958)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30</description>
+      <content:encoded><![CDATA[Category: Security Tools<br/>App: ClearanceKit<br/>Description: intercepts file-system access events on macOS and enforces per-process access policies.<br/>Website: https://craigjbass.github.io/clearancekit/<br/>Commit: Add ClearanceKit to security tools list (#1958)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/a4ab493a44a732d7b9770e8779c226a50453db30]]></content:encoded>
+    </item>
+    <item>
+      <title>Paul</title>
+      <link>https://guillim.github.io/products/paul</link>
+      <guid isPermaLink="false">9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3:Paul</guid>
+      <pubDate>Thu, 02 Apr 2026 23:46:23 GMT</pubDate>
+      <category>Developer Tools / Databases</category>
+      <description>Category: Developer Tools / Databases
+App: Paul
+Description: AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.
+Website: https://guillim.github.io/products/paul
+Commit: Add Paul to the ja/zh/ko list. #1956
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Paul<br/>Description: AI-first PostgreSQL client for getting fast answers from your database with read-only access by default.<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul to the ja/zh/ko list. #1956<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/9eed57d9bd5d3cf8fa394e63bb23e6c042892ae3]]></content:encoded>
+    </item>
+    <item>
+      <title>Paul 🐘</title>
+      <link>https://guillim.github.io/products/paul</link>
+      <guid isPermaLink="false">d199c89ae62c3821f8b851191946311896cb1e4a:Paul 🐘</guid>
+      <pubDate>Thu, 02 Apr 2026 23:37:48 GMT</pubDate>
+      <category>Developer Tools / Databases</category>
+      <description>Category: Developer Tools / Databases
+App: Paul 🐘
+Description: Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.
+Website: https://guillim.github.io/products/paul
+Commit: Add Paul (#1956)
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a</description>
+      <content:encoded><![CDATA[Category: Developer Tools / Databases<br/>App: Paul 🐘<br/>Description: Free, AI-first postgres client for macOS. Opens in 2 seconds. Dead Simple.<br/>Website: https://guillim.github.io/products/paul<br/>Commit: Add Paul (#1956)<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/d199c89ae62c3821f8b851191946311896cb1e4a]]></content:encoded>
+    </item>
+    <item>
+      <title>ReadAny</title>
+      <link>https://codedogqby.github.io/ReadAny/</link>
+      <guid isPermaLink="false">6e1899b10d1d3623ab1293a3f5a55f18cc9a936c:ReadAny</guid>
+      <pubDate>Thu, 02 Apr 2026 23:23:04 GMT</pubDate>
+      <category>Reading and Writing Tools / Ebooks</category>
+      <description>Category: Reading and Writing Tools / Ebooks
+App: ReadAny
+Description: AI-powered e-book reader with semantic search, chat, and note management.
+Website: https://codedogqby.github.io/ReadAny/
+Commit: Add ReadAny
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c</description>
+      <content:encoded><![CDATA[Category: Reading and Writing Tools / Ebooks<br/>App: ReadAny<br/>Description: AI-powered e-book reader with semantic search, chat, and note management.<br/>Website: https://codedogqby.github.io/ReadAny/<br/>Commit: Add ReadAny<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/6e1899b10d1d3623ab1293a3f5a55f18cc9a936c]]></content:encoded>
+    </item>
+    <item>
+      <title>NetFluss</title>
+      <link>https://www.ranagmbh.de/netfluss/</link>
+      <guid isPermaLink="false">26a025a470a54ccd166c7c99b44d65af5a1b93a8:NetFluss</guid>
+      <pubDate>Thu, 02 Apr 2026 00:43:25 GMT</pubDate>
+      <category>Utilities / Menu Bar Tools</category>
+      <description>Category: Utilities / Menu Bar Tools
+App: NetFluss
+Description: Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.
+Website: https://www.ranagmbh.de/netfluss/
+Commit: Add NetFluss
+Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8</description>
+      <content:encoded><![CDATA[Category: Utilities / Menu Bar Tools<br/>App: NetFluss<br/>Description: Native menu bar app for real-time upload/download speeds and top bandwidth-using apps.<br/>Website: https://www.ranagmbh.de/netfluss/<br/>Commit: Add NetFluss<br/>Commit URL: https://github.com/jaywcjlove/awesome-mac/commit/26a025a470a54ccd166c7c99b44d65af5a1b93a8]]></content:encoded>
+    </item>
     <item>
       <title>Buffer</title>
       <link>https://github.com/samirpatil2000/Buffer</link>
